@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-
+// Options and declarations
 %%
 %class vc
 %standalone
